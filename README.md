@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
-<img src="https://img.shields.io/badge/Java-339933?style=for-the-badge&logo=Java&logoColor=white" alt="Java Badge" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 ---
 
 ### 🧠 Em aprendizado
-Atualmente estou estudando: **HTML5**, **CSS3**, **JavaScript**. Pretendo estudar o framework **React** em seguida e, posteriormente, **Java** e **MySQL** .
+Atualmente estou estudando: **HTML5**, **CSS3**, **JavaScript** e **Python**. Pretendo estudar o framework **React** em seguida e, posteriormente, **Java** e **MySQL** .
 
 
 ---
