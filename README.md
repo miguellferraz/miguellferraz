@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou o Miguel Ferraz 👋</h1>
-<p align="center">🎓 Estudante de Ciência da Computação no CEUB • 📚 Atualmente estudando HTML, CSS e JavaScript</p>
+<p align="center">🎓 Estudante de Ciência da Computação no CEUB • 📚 Atualmente estudando IA em Python</p>
 <p align="center">🔗 Confira meus projetos aqui no GitHub e me acompanhe nas redes! </p>
 <p align="center">
 <a href="https://github.com/miguellferraz"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3 Badge" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
 </p>
@@ -29,8 +28,7 @@
 ---
 
 ### 🧠 Em aprendizado
-Atualmente estou estudando: **HTML5**, **CSS3**, **JavaScript** e **Python**. Pretendo estudar **MySQL** em seguida e, posteriormente, **Java** .
-
+Atualmente estou estudando **Python**, com foco em **IA** e desenvolvimento **Back-End**. Pretendo estudar bancos de dados SQL, como **MySQL**, e **APIs REST**, para fortalecer minha base.
 
 ---
 
