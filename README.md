@@ -29,7 +29,7 @@
 ---
 
 ### 🧠 Em aprendizado
-Atualmente estou estudando: **HTML5**, **CSS3**, **JavaScript** e **Python**. Pretendo estudar o framework **React** em seguida e, posteriormente, **Java** e **MySQL** .
+Atualmente estou estudando: **HTML5**, **CSS3**, **JavaScript** e **Python**. Pretendo estudar **MySQL** em seguida e, posteriormente, **Java** .
 
 
 ---
