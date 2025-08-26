@@ -28,7 +28,7 @@
 ---
 
 ### 🧠 Em aprendizado
-Atualmente estou estudando **Python**, com foco em **IA** e desenvolvimento **Back-End**. Pretendo estudar bancos de dados SQL, como **MySQL**, e **APIs REST**, para fortalecer minha base.
+Atualmente estou estudando **Python**, com foco em **IA** e desenvolvimento **Back-End**. Pretendo futuramente estudar bancos de dados SQL, como **MySQL**, e **APIs REST**, para fortalecer minha base.
 
 ---
 
