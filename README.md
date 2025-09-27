@@ -3,10 +3,10 @@
 <p align="center">🔗 Confira meus projetos aqui no GitHub e me acompanhe nas redes! </p>
 <p align="center"> 
   <a href="https://github.com/miguellferraz">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" height="400"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
   </a> 
   <a href="https://www.linkedin.com/in/miguelclferraz/">
-    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="400"/>
+    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
   </a> 
 </p>
 
