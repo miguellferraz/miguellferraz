@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/miguelclferraz/">
     <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
   </a> 
-  <a href="https://wa.me/5561998056072?text=Olá%20Miguel%2C%20gostaria%20de%20conversar!">
-    <img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/>
-  </a> 
 </p>
 
 
@@ -47,4 +44,8 @@ Atualmente estou estudando **Python**, com foco em **IA** e desenvolvimento **Ba
 ---
 
 ### ✉️ Contato
-Se quiser conversar ou colaborar em algo, sinta-se à vontade para me chamar pelo [LinkedIn](https://www.linkedin.com/in/miguelclferraz/)!
+Se quiser conversar ou colaborar em algo, sinta-se à vontade para me chamar pelo 
+<a href="https://wa.me/5561998056072?text=Olá%20Miguel%2C%20gostaria%20de%20conversar!">
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/>
+</a>
+
