@@ -3,7 +3,8 @@
 <p align="center">🔗 Confira meus projetos aqui no GitHub e me acompanhe nas redes! </p>
 <p align="center">
 <a href="https://github.com/miguellferraz" target="_blank">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img align="center" alt="GitHub" title="GitHub" width="40px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/miguelclferraz/" target="_blank">
   <img align="center" alt="LinkedIn" title="LinkedIn" width="40px" 
