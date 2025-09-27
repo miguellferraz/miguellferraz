@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3 Badge" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 ---
 
 ### 🧠 Em aprendizado
-Atualmente estou estudando **Python**, com foco em **IA** e desenvolvimento **Back-End**. Pretendo futuramente estudar bancos de dados SQL, como **MySQL**, e **APIs REST**, para fortalecer minha base.
+Atualmente estou estudando **Python**, com foco em **IA** e desenvolvimento **Back-End**. Pretendo futuramente estudar bancos de dados SQL, como **PostgreSQL**, e **APIs REST**, para fortalecer minha base.
 
 ---
 
