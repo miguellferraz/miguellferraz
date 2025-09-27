@@ -27,10 +27,14 @@
 </p>
 
 <br>
+<br>
 ---
 
 ### 🧠 Em aprendizado
 Atualmente estou estudando **Python**, com foco em **IA** e desenvolvimento **Back-End**. Pretendo futuramente estudar bancos de dados SQL, como **PostgreSQL**, e **APIs REST**, para fortalecer minha base.
+
+<br>
+<br>
 
 ---
 
