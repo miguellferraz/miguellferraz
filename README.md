@@ -26,15 +26,10 @@
   <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguellferraz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </p>
 
-<br>
-<br>
 ---
 
 ### 🧠 Em aprendizado
 Atualmente estou estudando **Python**, com foco em **IA** e desenvolvimento **Back-End**. Pretendo futuramente estudar bancos de dados SQL, como **PostgreSQL**, e **APIs REST**, para fortalecer minha base.
-
-<br>
-<br>
 
 ---
 
