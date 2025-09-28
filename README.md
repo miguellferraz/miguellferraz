@@ -44,6 +44,7 @@ Atualmente estou estudando **Python**, com foco em **IA** e desenvolvimento **Ba
 
 ### ✉️ Contato
 Se quiser conversar ou colaborar em algo, sinta-se à vontade para me chamar pelo [WhatsApp](https://wa.me/5561998056072?text=Olá%20Miguel%2C%20gostaria%20de%20conversar!) 
+<br>
 📧 Email direto: **miguelclferraz@gmail.com**
 
 
