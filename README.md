@@ -29,7 +29,6 @@
 
 ### 📊 GitHub Stats
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguellferraz&show_icons=true&theme=dark&count_private=true&hide_rank=true) 
-<br> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguellferraz&layout=compact&theme=dark)](https://github.com/miguelclferraz/github-readme-stats)
 
 <br>
