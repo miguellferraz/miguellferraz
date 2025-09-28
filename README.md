@@ -35,8 +35,6 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguellferraz&theme=dark&layout=compact&custom_title=Skills&langs_count=9"/>
 </p>
 
-<br>
-
 ---
 
 ### 🧠 Em aprendizado
