@@ -28,15 +28,13 @@
 ---
 
 ### 📊 GitHub Stats
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguellferraz&show_icons=true&theme=dark&count_private=true&hide_rank=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguellferraz&layout=compact&theme=dark)](https://github.com/miguelclferraz/github-readme-stats)
+<p> 
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=miguellferraz&show_icons=true&theme=dark&count_private=true&hide_rank=true&locale=pt-br"/> 
+  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguellferraz&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"/> 
+</p>
 
 <br>
 
-<p> 
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=miguellferraz&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&locale=pt-br"/> 
-  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguellferraz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/> 
-</p>
 
 ---
 
